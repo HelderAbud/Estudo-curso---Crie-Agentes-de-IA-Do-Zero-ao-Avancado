@@ -1,0 +1,10 @@
+sqlalchemy
+pandas
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+llama-index-experimental
+gradio
+ipykernel
+llama-index-postprocessor-cohere-rerank
+python-dotenv
