@@ -1,0 +1,77 @@
+# Scratch / Cursor interno
+.scratch/
+.cursor/
+
+# Secrets e ambiente local
+.env
+.env.*
+!.env.example
+.venv/
+.venv
+.venv-1/
+.venv-1
+**/.venv/
+**/.venv
+**/.venv-1/
+**/.venv-1
+venv/
+ENV/
+.venv.key
+_local-nao-publicar/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs e caches de LLM / vector stores
+*.log
+agentops.log
+*.sqlite
+*.sqlite3
+langchain_cache.sqlite
+**/chroma_*/
+**/chroma_vectorstore/
+**/chroma_retrival_bd/
+**/artigo/
+**/tutorial/
+*.bin
+
+# Binarios e midia pesada de aula
+ffmpeg.exe
+ffprobe.exe
+*.m4a
+*.mp3
+*.mp4
+*.zip
+
+# Material de curso / copyright (nao republicar)
+*.pptx
+*.ppt
+*.docx
+**/LGPD.pdf
+**/files/LLM.pdf
+**/files/LLM_2.pdf
+**/files/apostila.pdf
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Scratch interno de planejamento (opcional no repo)
+.scratch/
+.cursor/

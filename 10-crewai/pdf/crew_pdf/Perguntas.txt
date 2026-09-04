@@ -1,0 +1,11 @@
+1) Onde encontro, na LGPD, as obrigações que uma empresa tem ao 
+coletar dados pessoais de seus usuários? Qual artigo trata sobre 
+o consentimento e os direitos do titular?
+
+2) Em qual artigo da LGPD está descrita a necessidade de notificar 
+a ANPD e os titulares em caso de vazamento de dados pessoais? 
+O que exatamente a empresa deve fazer nesse cenário?
+
+3) Quais são os direitos que a LGPD garante ao titular dos dados? 
+Em quais artigos isso está detalhado e como uma empresa deve atender 
+a esses direitos?

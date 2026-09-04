@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "agent": "teste:export_graph",
+        "mcp": "example4:agent_mcp"
+    }
+}

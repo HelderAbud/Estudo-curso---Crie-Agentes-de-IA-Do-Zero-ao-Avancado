@@ -1,0 +1,8 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "parallelization": "parallelization:parallel_workflow",
+        "agent": "agent:agent",
+        "routing": "router:routing_workflow"
+    }
+}
